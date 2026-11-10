@@ -1,0 +1,6 @@
+{
+  "summary":  "Plano revisado para suportar o fluxo completo de edição e upload de camadas no AI Studio (gravando diretamente em public/data/ e mapas-config.json) combinado com cache-busting automático e controle de versão no GitHub Pages.",
+  "updatedAt":  "2026-11-10T19:35:21.196993017Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
